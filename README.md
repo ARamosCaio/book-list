@@ -13,7 +13,7 @@ O Book List é um aplicativo simples para gerenciar uma lista de livros. Permite
 
 - Node.js
 - Vue.js
-- Python 3.x
+- Python
 - Flask
 - Flask-CORS
 
